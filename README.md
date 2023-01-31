@@ -41,7 +41,7 @@ We were provided a dataset to analyze with the following characteristics in sale
 
 
 
-<img src='Images/shap_summary_plot.png' width=50%>
+<img src='Images/shap_summary_barplot.png' width=50%>
 
 
 <img src='Images/shap_summary_plot.png' width=50%>
